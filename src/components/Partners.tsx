@@ -73,7 +73,7 @@ const Partners: React.FC = () => {
               </h3>
               
               <p className="text-lg text-foreground/80 font-inter leading-relaxed mb-6">
-                OceanWatch is the first citizen-powered coastal hazard intelligence platform 
+                Sahyog is the first citizen-powered coastal hazard intelligence platform 
                 officially recognized and integrated with India's national ocean monitoring systems.
               </p>
 
@@ -171,7 +171,7 @@ const Partners: React.FC = () => {
         <div className="mt-12 text-center">
           <div className="glass-card p-6 max-w-2xl mx-auto border-l-4 border-secondary">
             <p className="text-lg font-inter italic text-foreground/90 mb-4">
-              "OceanWatch represents the future of disaster preparedness - 
+              "Sahyog represents the future of disaster preparedness - 
               leveraging citizen participation with scientific validation."
             </p>
             <div className="font-clash font-semibold text-secondary">
