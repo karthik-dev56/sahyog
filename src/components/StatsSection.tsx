@@ -258,7 +258,7 @@ const StatsSection: React.FC = () => {
                 <h3 className="font-clash font-semibold text-xl mb-6">System Performance</h3>
                 <div className="space-y-4">
                   <div className="flex justify-between items-center">
-                    <span>API Uptime</span>
+                    <span>Server Uptime</span>
                     <span className="font-orbitron font-bold text-green-400">99.97%</span>
                   </div>
                   <div className="w-full bg-white/5 rounded-full h-2">
