@@ -16,8 +16,8 @@ const Partners: React.FC = () => {
   const features = [
     {
       icon: Database,
-      title: 'API Ready for Govt Systems',
-      description: 'Seamlessly integrate with existing disaster management infrastructure',
+      title: 'Community Reporting',
+      description: 'Citizens can report local incidents (flooding, blocked roads) to help response teams.',
       color: 'text-blue-400'
     },
     {
