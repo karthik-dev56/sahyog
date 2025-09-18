@@ -151,7 +151,7 @@ const Partners: React.FC = () => {
                 &lt; 2s
               </div>
               <div className="text-sm text-foreground/70">
-                API Response Time
+                Server Response Time
               </div>
             </div>
             
