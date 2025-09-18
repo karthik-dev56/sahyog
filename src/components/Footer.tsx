@@ -36,7 +36,7 @@ const Footer: React.FC = () => {
               <span className="text-3xl">🌊</span>
               <div>
                 <div className="font-clash font-bold text-2xl text-secondary">
-                  OCEANWATCH
+                  SAHYOG
                 </div>
                 <div className="text-sm text-foreground/70">
                   Real-Time Coastal Intelligence
