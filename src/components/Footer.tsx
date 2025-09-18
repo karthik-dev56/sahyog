@@ -54,11 +54,11 @@ const Footer: React.FC = () => {
             <div className="space-y-2 text-sm">
               <div className="flex items-center space-x-2 text-foreground/70">
                 <Mail className="w-4 h-4" />
-                <span>contact@oceanwatch.in</span>
+                <span>contact@sahyog.in</span>
               </div>
               <div className="flex items-center space-x-2 text-foreground/70">
                 <Phone className="w-4 h-4" />
-                <span>+91 1800-OCEAN-HELP</span>
+                <span>+91 1800-SAHOG-HELP</span>
               </div>
               <div className="flex items-center space-x-2 text-foreground/70">
                 <MapPin className="w-4 h-4" />
@@ -137,10 +137,10 @@ const Footer: React.FC = () => {
           {/* Copyright */}
           <div className="text-center md:text-right text-sm text-foreground/60">
             <div className="mb-1">
-              © 2025 OceanWatch — Made for India 🇮🇳
+              © 2025 Sahyog — Made for India 🇮🇳
             </div>
             <div className="text-xs">
-              In Partnership with{' '}
+              In Support for{' '}
               <span className="text-secondary font-semibold">INCOIS</span>,{' '}
               <span className="text-secondary font-semibold">Ministry of Earth Sciences</span>,{' '}
               Government of India
